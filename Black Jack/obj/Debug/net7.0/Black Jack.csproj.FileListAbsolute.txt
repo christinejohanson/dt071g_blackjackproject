@@ -1,0 +1,15 @@
+/Users/christinejohanson/Projects/Black Jack/bin/Debug/net7.0/Black Jack
+/Users/christinejohanson/Projects/Black Jack/bin/Debug/net7.0/Black Jack.deps.json
+/Users/christinejohanson/Projects/Black Jack/bin/Debug/net7.0/Black Jack.runtimeconfig.json
+/Users/christinejohanson/Projects/Black Jack/bin/Debug/net7.0/Black Jack.dll
+/Users/christinejohanson/Projects/Black Jack/bin/Debug/net7.0/Black Jack.pdb
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.csproj.AssemblyReference.cache
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.AssemblyInfoInputs.cache
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.AssemblyInfo.cs
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.csproj.CoreCompileInputs.cache
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.dll
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/refint/Black Jack.dll
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.pdb
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/Black Jack.genruntimeconfig.cache
+/Users/christinejohanson/Projects/Black Jack/obj/Debug/net7.0/ref/Black Jack.dll
